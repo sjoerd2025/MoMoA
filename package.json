@@ -47,6 +47,7 @@
     "e2b": "^2.15.0",
     "express": "^5.1.0",
     "firebase-admin": "^13.6.0",
+    "google-auth-library": "^10.7.0",
     "graphology": "^0.26.0",
     "gray-matter": "^4.0.3",
     "ignore": "^7.0.5",
